@@ -4,9 +4,7 @@ import { ButtonBackSpace, ButtonCharacters, ButtonClear, ButtonNumbers, ButtonRe
 export default function Calculator() {
    const [ calc, setCalc] = useState("")
 
-   const click = (e) => {
-      setCalc(calc.concat(e.target.value))
-   }
+   const click = (e) => setCalc(calc.concat(e.target.value))
 
    const result = () => {
       try {
@@ -16,13 +14,9 @@ export default function Calculator() {
       }
    }
 
-   const backSpace = () =>{
-      setCalc(calc.slice(0,-1))
-   }
+   const backSpace = () => setCalc(calc.slice(0,-1))
 
-   const clear = () => {
-      setCalc("")
-   }
+   const clear = () => setCalc("")
 
    return (
       <main>
