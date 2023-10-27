@@ -1,9 +1,11 @@
+import { Title } from "./styled";
+
 export default function Header() {
    return (
       <header>
-         <h1>
+         <Title>
             Calculator V.N.W
-         </h1>
+         </Title>
       </header>
    )
 }
