@@ -5,7 +5,7 @@
 
 https://calculadora-vnw.vercel.app/
 
-Bem-vindo à Calculadora React, uma aplicação web simples e eficaz para realizar cálculos matemáticos de forma conveniente. Esta calculadora foi desenvolvida utilizando a biblioteca React, e oferece uma interface intuitiva para executar operações matemáticas básicas, este projeto foi desenvolvido como parte do curso FrontEnd na escola <a href="https://vainaweb.com.br/" target="_blank">Vai na Web</a>.
+Boas-vindas à Calculadora React, uma aplicação web simples e eficaz para realizar cálculos matemáticos de forma conveniente. Esta calculadora foi desenvolvida utilizando a biblioteca React, e oferece uma interface intuitiva para executar operações matemáticas básicas, este projeto foi desenvolvido como parte do curso FrontEnd na escola <a href="https://vainaweb.com.br/" target="_blank">Vai na Web</a>.
 
 ## Recursos Principais:
 
