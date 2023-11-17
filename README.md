@@ -1,4 +1,4 @@
-# Contador
+# Calculadora
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlanFabricioBarbosa/Calculadora_VNW/blob/main/LICENSE) 
 
 ## Sobre o projeto
