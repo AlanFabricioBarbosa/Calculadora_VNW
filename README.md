@@ -18,7 +18,7 @@ Boas-vindas à Calculadora React, uma aplicação web simples e eficaz para real
 > Detecção de Erros: Caso você digite uma expressão inválida, a calculadora informará com a mensagem "Error", para evitar resultados incorretos.
 
 ## Tecnologias utilizadas
-React, javaScript, Hooks do React, Styled, Components, Tratamento de erros
+React, javaScript, Hooks do React, Styled Components, Tratamento de erros
 
 ## Layout web
 ![Captura de tela 2023-10-27 161455](https://github.com/AlanFabricioBarbosa/Contador_vnw/assets/98029329/72a788e7-3e51-4fdb-8036-123c964f252f)
