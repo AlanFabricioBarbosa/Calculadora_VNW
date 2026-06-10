@@ -5,9 +5,9 @@ import { GlobalStyled } from "./Globals"
 function App() {
   return (
     <>
-      <GlobalStyled/>
-      <Header/>
-      <Calculator/>
+      <GlobalStyled />
+      <Header />
+      <Calculator />
     </>
   )
 }

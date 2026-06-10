@@ -1,11 +1,10 @@
-import { Title } from "./styled";
+import { HeaderWrapper, LogoIcon, Title } from "./styled";
 
 export default function Header() {
-   return (
-      <header>
-         <Title>
-            Calculator V.N.W
-         </Title>
-      </header>
-   )
+  return (
+    <HeaderWrapper>
+      <LogoIcon>🧮</LogoIcon>
+      <Title>Calculator V.N.W</Title>
+    </HeaderWrapper>
+  );
 }
